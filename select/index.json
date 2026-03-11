@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Whenever, Wherever (Official HD Video)",
+  "base_artist": "Shakira",
+  "createdAt": "2026-03-11T07:46:32.798817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": true,
+      "path": "select/01_Whenever,_Wherever_Bombay_Bicycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suerte (Whenever, Wherever)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/02_Suerte_(Whenever,_Wherever)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Suerte (Whenever, Wherever)",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/03_Suerte_(Whenever,_Wherever)_Shakira.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Suerte (Whenever, Wherever) (Album Version)",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/04_Suerte_(Whenever,_Wherever)_(Album_Version)_Shakira.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/05_Whenever,_Wherever_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/06_Whenever,_Wherever_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/07_Whenever,_Wherever_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/08_Whenever,_Wherever_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whenever, Wherever (Album Version)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/09_Whenever,_Wherever_(Album_Version)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Whenever, Wherever - Live Version",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/10_Whenever,_Wherever_-_Live_Version_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Whenever, Wherever (Live Version)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/11_Whenever,_Wherever_(Live_Version)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Whenever, Wherever (Sahara mix)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/12_Whenever,_Wherever_(Sahara_mix)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whenever, Wherever (TV Edit)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/13_Whenever,_Wherever_(TV_Edit)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Whenever. Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/14_Whenever._Wherever_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Suerte (Whenever, Wherever)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/15_Suerte_(Whenever,_Wherever)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Whenever, Wherever",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/16_Whenever,_Wherever_Shakira.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHENEVER, WHEREVER",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/pl_01_WHENEVER,_WHEREVER_Shakira.txt"
+    }
+  ]
+}
